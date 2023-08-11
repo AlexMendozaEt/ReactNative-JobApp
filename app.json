@@ -5,6 +5,19 @@
       "bundler": "metro"
     },
     "name": "testReact",
-    "slug": "testReact"
+    "slug": "testReact",
+    "extra": {
+      "eas": {
+        "projectId": "3790eb15-251d-4410-bb0c-8188182bb373"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3790eb15-251d-4410-bb0c-8188182bb373"
+    },
+    "android": {},
+    "ios": {}
   }
 }
